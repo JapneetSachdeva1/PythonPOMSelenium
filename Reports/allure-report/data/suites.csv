@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 18 20:41:31 IST 2023","Sun Jun 18 20:41:31 IST 2023","596","","test_registration","Test_RegistrationPage","","","test_registration[firefox-tester15-1234567891-tester15@email.com-Delhi-tester15-active_tester15]",""
+"passed","Sun Jun 18 20:41:17 IST 2023","Sun Jun 18 20:41:18 IST 2023","922","","test_registration","Test_RegistrationPage","","","test_registration[chrome-tester15-1234567891-tester15@email.com-Delhi-tester15-active_tester15]",""
