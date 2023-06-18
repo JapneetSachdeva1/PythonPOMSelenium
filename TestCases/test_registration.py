@@ -13,6 +13,7 @@ class Test_RegistrationPage:
         registration_page = RegistrationPage(self.driver)
         print(password)
         registration_page.register_user(name, phone, email, city, username, password)
+        # print all the logs
         print("Name: "+name)
         print("phone: "+phone)
         print("email: "+email)

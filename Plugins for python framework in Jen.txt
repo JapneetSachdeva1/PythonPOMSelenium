@@ -1,0 +1,12 @@
+Plugins for python framework in Jenkins
+
+Allure
+
+shinningPanda
+
+call ./venv/Scripts/activate.bat
+cd TestCases
+pytest test_registration.py -s -v --alluredir="../Reports/allure-results" 
+cd..
+cd Reports
+allure generate --clean
